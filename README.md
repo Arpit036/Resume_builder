@@ -6,7 +6,7 @@ This tool allows users to create, preview, and download professional resumes dir
 ---
 
 ## 🔗 Live Demo
-👉 [View the App on Vercel](https://vercel.com/arpits-projects-8892f52f/resume-builder-jkhj)
+👉 [View the App on Vercel](https://resume-builder-jkhj.vercel.app/)
 
 ---
 
